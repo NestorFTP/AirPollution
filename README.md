@@ -28,3 +28,25 @@
 |23| EPOC, Bronquitis Crónica y Síntomas respiratorios asociados a la contaminación por PM10 en la ciudad de Medellín (Colombia) | Carlos Eduardo Orduz García, María Victoria Toro, Juan Carlos Gómez | Enero 2013 | Revista Med |  | Colombia | Redalyc | 0121-5256 | 21 | 21 – 28 | 1 |
 |24| The machine learning in the prediction of elections | José Antonio León Borges, Roger Ismael Noh Balam, Lino Rangel Gómez, Michael Philip Strand | Mayo 2015 | ReCIBE | | México | Redalyc | 2007-5448 | 16 | 4 – 28 | 4 |
 |25| Sistema para el manejo de la calidad del aire en la ciudad de Cali – Colombia |  Luis Felipe  Granada Aguirre, Ileana Pérez Vergara, Marino Valencia-Rodríguez, Ronald Rojas Alvarado, Israel Herrera Orozco | Enero 2014 | Ingeniería Industrial |  | Cuba | Redalyc | 0258-5960 | 35 | 13 – 24 | 1 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| No. |   Título del Artículo   |   Autor (es)   |   Fecha de Publicación   |   Revista de Publicación   |   Editorial   |   País de Publicación   |   Indizada a:   |   ISSN   |   Vol.   |   Pag.   |   Edición   |
+|---   |---   |---   |---   |---   |---   |---   |---   |---   |---   |---   |---   |
+
+
+
+
