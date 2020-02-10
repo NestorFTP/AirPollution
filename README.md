@@ -14,8 +14,8 @@
 |9| Sistema Difuso Evolutivo para la Predicción del Nivel de Contaminación del Aire por Material Particulado: Caso Puente Aranda | Carlos Alberto Riveros Varela,  Miguel Alberto Melgarejo Rey, Andrea Riveros Varela,  Luz Deicy Alvarado Nieto | 2012 | Ingeniería | Ingeniería | Colombia | Redalyc | 0121-750X | 17 | 55-62 | 2 |
 |10| Representación social del medio ambiente y de la contaminación del aire: efecto de imbricación de dos objetos | Óscar Navarro |  Enero 2013 | CES Psicología | Universidad CES | Colombia | Redalyc | 2011-3080 | 6 | 104 – 121 | 1 | 
 |11| Chemical composition of rainwater in northeastern México | E. Ramírez Lara, R. Miranda Guardiola, Y. Gracia Vásquez, I. Balderas Rentería, H. Bravo Álvarez, R. Sosa Echeverría, P. Sánchez Álvarez, A. Alarcón Jiménez, Jonathan D. W. Kahl, M. C. Torres | Julio 2010 | Atmósfera |  | México | Dialnet | 2395-8812 | 23 | 213 – 224 | 3 |
-|12|
-|13|
+|12| Las partículas suspendidas, aeropartículas o aerosoles: ¿hacen daño a la salud?; ¿podemos hacer algo? | Leonora Rojas Bracho, Verónica Garibay Bravo | Octubre 2013 |  Gaceta Ecológica |  | México | Redalyc | 1405-2849 | 69 | 29 – 44 | 1 |
+|13|Source apportionment of PM2.5 for supporting control strategies in the Monterrey Metropolitan Area, Mexico | M. Martínez Cinco, J. Santos Guzmán, G. Mejía Velázquez | Junio 2016 | NCBI | | México | Medline | 10.1080/10962247.2016.1159259  | | 631-642 | |
 |14|
 |15|
 |16|
