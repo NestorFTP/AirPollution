@@ -38,14 +38,14 @@
 
 
 
+No.
+Artículo
+
+Cita	Problemática de Investigación	¿Qué hizo?	¿Qué obtuvo?	Conclusiones
 
 
-
-
-
-
-| No. |   Título del Artículo   |   Autor (es)   |   Fecha de Publicación   |   Revista de Publicación   |   Editorial   |   País de Publicación   |   Indizada a:   |   ISSN   |   Vol.   |   Pag.   |   Edición   |
-|---   |---   |---   |---   |---   |---   |---   |---   |---   |---   |---   |---   |
+| No. |   Artículo   |   Cita   |   Problemática de Investigación   |   ¿Qué hizo?   |   ¿Qué obtuvo?   |   Conclusiones   |
+|---   |---   |---   |---   |---   |---   |---   |
 
 
 
