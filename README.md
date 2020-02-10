@@ -11,7 +11,7 @@
 |6| Variación temporal de esporas de Alternaria, Cladosporium, Coprinus, Curvularia y Venturia en el aire del área metropolitana de Monterrey, Nuevo León, México | Alejandra Rocha Estrada, Marco Antonio Alvarado Vázquez, Ricardo Gutiérrez Reyes, Sergio Manuel Salcedo Martínez, Sergio Moreno Limón | Enero 2013 | Revista Internacional de Contaminación Ambiental | Instituto de Biología | México | Scielo | 0188-4999 | 29 | 155-165 | 2 |
 |7| Los Índices de Calidad del Aire: Alcances y Limitaciones | Armando Correa García | Julio 2011 | Conciencia Tecnológica | Esfuerzo S.A de C.V | México | Redalyc | 1405-5597 | 42 | 74 – 76 | 1 |
 |8| Predicción de estados de hipotensión empleando modelos ocultos de Markov | Evin Diego, Hadad Alejandro,  Martina Mauro, Drozdowicz Bartolomé | Enero 2011 | Facultad de Ingeniería | | Colombia | Redalyc | 0121-1129 | 20 | 55-63 | 30 |
-|9| Sistema Difuso Evolutivo para la Predicción del Nivel de Contaminación del Aire por Material Particulado: Caso Puente Aranda | Carlos Alberto Riveros Varela,  Miguel Alberto Melgarejo Rey, Andrea Riveros Varela,  Luz Deicy Alvarado Nieto | 2012 | Ingeniería | Ingeniería | Redalyc | 0121-750X | 17 | 55-62 | 2 |
+|9| Sistema Difuso Evolutivo para la Predicción del Nivel de Contaminación del Aire por Material Particulado: Caso Puente Aranda | Carlos Alberto Riveros Varela,  Miguel Alberto Melgarejo Rey, Andrea Riveros Varela,  Luz Deicy Alvarado Nieto | 2012 | Ingeniería | Ingeniería | Colombia | Redalyc | 0121-750X | 17 | 55-62 | 2 |
 |10| 
 |11|
 |12|
